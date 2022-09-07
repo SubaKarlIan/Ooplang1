@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=CarInsurancePolicy
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=policyNumber\ numberPayment\ cityOfResidence
+comment2.target=void\ pol(int,\ int,\ java.lang.String)
+comment3.params=policyNumber\ numberPayment
+comment3.target=void\ pol(int,\ int)
+comment4.params=policyNumber
+comment4.target=void\ pol(int)
+numComments=5
